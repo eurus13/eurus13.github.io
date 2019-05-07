@@ -6,7 +6,7 @@ I'm having a bit of difficulty on where to start this little project/portfilio b
 
 So I'll start with how I see Information Visualization from my current perspective.
 
-#h2 Information Visualization:
+## Information Visualization:
  
 ```
 Reduce inputs to amplify clarity in turn generating a deeper understanding
