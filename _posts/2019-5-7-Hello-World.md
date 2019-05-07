@@ -10,5 +10,4 @@ So I'll start with how I see Information Visualization from my current perspecti
  
 ```
 Reduce inputs to amplify clarity in turn generating a deeper understanding
-```
 
