@@ -19,12 +19,12 @@ It feels similarly to the existential captchas where you must decide if the sliv
 
 # Back to Data Types..
 
-> If you  measure it, it is **continous**
+> If you  measure it, it is **continuous**
 >
 >
 > If you count it, it's **discrete**
 
-Example:
+__Example:__
 
 **Discrete**
 If you count how many apples are in a bucket- that is a discrete(limited) set or quanitity.
