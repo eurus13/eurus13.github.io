@@ -3,18 +3,19 @@ layout: post
 title: Data Types
 ---
 
-For some the concept of data types can get slippery when applying it to strict categories. 
+For some the concept of data types **[Continous or Discrete]** can get slippery when applying it to strict categories. 
 
-It honestly feels a bit similar to the captchas where you must decide if the sliver of crosswalk or mininscule overlap of the bus tire is enough to consider the square selectable to prove your human.
-I've often been left wondering about whether I am actually a robot or just incapable human at the mercy 
-of captcha .. 
-
-Here is an interesting read on why captcha has taken gaslighting us. 
-[Verge: Why CAPTCHAs have gotten so difficult](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence)
-
-Back to Data Types, and how I make sense of them quickly.
+It feels similarly to the existential captchas where you must decide if the sliver of crosswalk or mininscule overlap of the bus tire is enough to consider the square selectable to prove your human .. and I've often been locked out of a website wondering about by humanity .. subtly morphing from captcha to gotcha- [Verge: Why CAPTCHAs have gotten so difficult](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence)
 
 
+![alt text][logo]
+
+[logo]: https://i.redd.it/6etddmpw7af11.jpg "Are We Human❓"
+
+
+
+
+# Back to Data Types, and how I make sense of them quickly.
 
 Most places I've read start with discrete, probably because it is easier, but going from contious to discrete works as well. 
 
