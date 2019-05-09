@@ -10,7 +10,7 @@ It feels similarly to the existential captchas where you must decide if the sliv
 
 
 
-["Are We Human❓"]:(https://github.com/eurus13/eurus13.github.io/tree/master/images/304Kas5.png)
+["Are We Human❓"]:(https://raw.githubusercontent.com/eurus13/eurus13.github.io/master/images/304Kas5.png)
 
 
 
@@ -18,6 +18,8 @@ It feels similarly to the existential captchas where you must decide if the sliv
 # Back to Data Types,and how I make sense of them quickly.
 
 > If you  measure it, it is **continous**
+>
+>
 > If you count it, it's **discrete**
 
 Example:
