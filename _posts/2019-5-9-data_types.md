@@ -30,7 +30,7 @@ __Example:__
 If you count how many apples are in a bucket- that is a discrete(limited) set or quanitity.
 
 **Continuous**
-If you measure the circumfrence of each apple in the bucket, there is no set size or limit in relation to the group. It is free to float to any value, and you are free to refine your measuring tool. 
+If you measure the circumference of each apple in the bucket, there is no set size or limit in relation to the group. It is free to float to any value, and you are free to refine your measuring tool. 
 
 
 
