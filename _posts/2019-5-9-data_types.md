@@ -5,7 +5,7 @@ title: Data Types
 
 For some the concept of data types **[Continous or Discrete]** can get slippery when applying it to strict categories. 
 
-It feels similarly to the existential captchas where you must decide if the sliver of crosswalk or mininscule overlap of the bus tire is enough to consider the square selectable to prove your human .. and I've often been locked out of a website wondering about by humanity .. subtly morphing from captcha into gotcha- [Verge: Why CAPTCHAs have gotten so difficult](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence)
+It feels similarly to the existential captchas that subtly morph from captcha into gotcha- where you must decide if the sliver of crosswalk or mininscule overlap of a bus tire is enough to consider the square selectable in order to prove your human .. I've often been locked out of a website and left wondering about by humanity .. [Verge: Why CAPTCHAs have gotten so difficult](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence)
 
 <br><br>
 <p align="center">
