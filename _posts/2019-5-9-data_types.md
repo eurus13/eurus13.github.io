@@ -19,7 +19,7 @@ It feels similarly to the existential captchas that subtly morph from captcha in
 
 # Back to Data Types..
 
-> If you  measure it, it is **continuous**
+> If you  measure it, it's **continuous**
 >
 >
 > If you count it, it's **discrete**
