@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+creative code monkey interested in using data to better ourselves
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Tools I have been using:
+Python, D3, Processing, HTML/CSS/JS
 
 ### Contact me
 
