@@ -43,7 +43,7 @@ a different approach.
   
   Actual [Jupyter Notebook](https://github.com/eurus13/Data-Visualization/blob/master/Banana%20Exports%20in%20Tonnes%201994-2005.ipynb)
   
-  <img src="https://raw.githubusercontent.com/eurus13/eurus13.github.io/master/images/banana_ipynb.png">
+<img src="https://raw.githubusercontent.com/eurus13/eurus13.github.io/master/images/banana_ipynb.png">
   
   
   
